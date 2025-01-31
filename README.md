@@ -1,4 +1,5 @@
-FAQ Accordion - https://faq-accordion-theta-swart.vercel.app
-Social Links - https://social-links-frontendmentor.vercel.app
-Xbox Page - https://xbox-page-nine.vercel.app
-Product Preview - https://product-preview-frontendmentor-sooty.vercel.app/
+FAQ Accordion - https://faq-accordion-theta-swart.vercel.app (Newbie) 
+Social Links - https://social-links-frontendmentor.vercel.app (Newbie)
+Xbox Page - https://xbox-page-nine.vercel.app (Newbie)
+Product Preview - https://product-preview-frontendmentor-sooty.vercel.app/ (Newbie)
+NewsLetter SignUP - https://newsletter-signup-kappa-nine.vercel.app/ (Junior)
